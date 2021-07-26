@@ -1,0 +1,28 @@
+#main{
+    display:block;
+    text-align: center;
+    
+   
+    
+    
+}
+
+#calculator{
+    display: bock;
+    border-radius: 25px;
+    margin: 35%;
+    margin-top: 5%;
+    padding: 2%;
+    padding-top: 3%;
+    width: 400px;
+    height: 550px;
+    background-color: darkslateblue;
+}
+
+#screen{
+    
+    display: block;
+        border-radius: 5px;
+    height: 60px;
+    background-color: darkgray;
+}
