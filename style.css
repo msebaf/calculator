@@ -1,3 +1,4 @@
+
 #main{
     display:block;
     text-align: center;
@@ -22,7 +23,31 @@
 #screen{
     
     display: block;
-        border-radius: 5px;
+    border-radius: 5px;
     height: 60px;
     background-color: darkgray;
+    text-align: end;
+    font-size: 35px;
+    padding-right: 10px;
+    
+}
+
+button{
+margin: 2%;
+width: 80px;
+height: 80px;
+font-size: 30px;
+
+}
+
+#clear{
+    height: 70px;
+    margin-top: 9%;
+    width: 160px;
+}
+#delete{
+    height: 70px;
+    font-size: 30px;
+    margin-top: 9%;
+    width: 160px;
 }
